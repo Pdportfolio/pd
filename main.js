@@ -291,6 +291,16 @@ const languageIcons = {
 // ====== GOOGLE DRIVE CERTIFICATES ======
 const certificates = [
   {
+    id: '1W4Sg0y2ywq3OcN3nvpOTngudIcnwBzcr',
+    name: 'Agentic AI Fundamentals: Architecture, Frameworks And Applications '
+  },
+  
+  {
+    id: '1oILyQLkdYlAXzRgMnAxTedwiv-Eodfpm',
+    name: 'Advanced Learning Algorithm By Andrew Ng'
+  },
+  
+  {
     id: '1fK_uopU078aZ7yp8fo2ySVADXQm1U1sa',
     name: 'Supervised Machine Learning By Andrew Ng'
   },
@@ -813,3 +823,4 @@ flipCards.forEach(card => {
     card.classList.toggle("active");
   });
 });
+
