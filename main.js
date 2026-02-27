@@ -309,10 +309,17 @@ const certificates = [
     id: '1oILyQLkdYlAXzRgMnAxTedwiv-Eodfpm',
     name: 'Advanced Learning Algorithm By Andrew Ng'
   },
-  
   {
     id: '1fK_uopU078aZ7yp8fo2ySVADXQm1U1sa',
     name: 'Supervised Machine Learning By Andrew Ng'
+  },
+  {
+    id: '1sK2849ss701eUOXnIxz_fmjwlEvyLckx',
+    name: 'Machine Learning A-Z'
+  },
+  {
+    id: '1Hz4SJPa2pmicrZcu-Alp-2q-dddZilsr',
+    name: 'What is Generative AI ?'
   }
   
 ];
@@ -826,6 +833,7 @@ flipCards.forEach(card => {
     card.classList.toggle("active");
   });
 });
+
 
 
 
