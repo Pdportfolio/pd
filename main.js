@@ -296,6 +296,16 @@ const certificates = [
   },
   
   {
+    id: '1vy3E8hd_01TPM-5EMyfWEwY13Wx3FsW9',
+    name: 'Machine Learning Specialization By Andrew Ng '
+  },
+  
+  {
+    id: '1MJONXPyBZcidSomsGsPVZrM0Un9J6fhT',
+    name: 'Unsupervised Machine Learning Algorithm By Andrew Ng'
+  },
+  
+  {
     id: '1oILyQLkdYlAXzRgMnAxTedwiv-Eodfpm',
     name: 'Advanced Learning Algorithm By Andrew Ng'
   },
@@ -823,4 +833,5 @@ flipCards.forEach(card => {
     card.classList.toggle("active");
   });
 });
+
 
